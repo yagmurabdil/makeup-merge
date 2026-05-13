@@ -113,9 +113,11 @@ Bu proje geliştirilirken aşağıdaki teknolojiler kullanılmıştır:
 ## Oyun Ekran Görüntüleri
 
 ### Ana Oyun Ekranı
+<img width="1127" height="769" alt="game_over" src="https://github.com/user-attachments/assets/7ada81c3-c335-413f-bbd4-30a655cb2396" />
 
+<img width="1155" height="770" alt="makeup_merge" src="https://github.com/user-attachments/assets/0fd6800e-23ea-4928-921b-5e4c6f3afce1" />
 
-### Oyun İçi Oynanış
+<img width="803" height="361" alt="golden_boost" src="https://github.com/user-attachments/assets/6f330743-8768-48df-8f06-1f11be93a5b6" />
 
 
 ---
