@@ -16,8 +16,10 @@ Oyun ilerledikçe kullanılabilir alan azalır, hata yapma payı artar ve oyuncu
 
 Bu proje aşağıdaki oyunun temel merge mekaniğinden esinlenilerek geliştirilmiştir:
 
-**Orijinal Oyun Adı:** 
-**Oyun Linki:** 
+**Orijinal Oyun Adı:** Burakkuhoru
+
+**Oyun Linki:** https://dariusfang.itch.io/burakkuhoru
+
 
 ---
 
