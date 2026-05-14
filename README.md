@@ -117,7 +117,9 @@ Bu proje geliştirilirken aşağıdaki teknolojiler kullanılmıştır:
 
 <img width="1155" height="770" alt="makeup_merge" src="https://github.com/user-attachments/assets/0fd6800e-23ea-4928-921b-5e4c6f3afce1" />
 
-<img width="803" height="361" alt="golden_boost" src="https://github.com/user-attachments/assets/6f330743-8768-48df-8f06-1f11be93a5b6" />
+
+<img width="1107" height="754" alt="Ekran Resmi 2026-05-14 21 55 00" src="https://github.com/user-attachments/assets/86a48d0d-aec1-4938-98f5-c804af761f5e" />
+
 
 
 ---
