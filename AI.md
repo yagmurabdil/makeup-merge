@@ -12,7 +12,7 @@ Aşağıda proje geliştirme sürecinde yapay zeka araçlarına yöneltilen soru
 
 ---
 
-## Prompt 
+## Prompt 1
 
 **Soru:**  
 Merge oyununda fiziksel çarpışma sisteminin daha stabil çalışması için nasıl bir yaklaşım izlenmelidir? Objelerin üst üste düzgün yerleşmesi, havada asılı kalmaması ve fiziksel kaymaların azaltılması için hangi iyileştirmeler önerilir?
