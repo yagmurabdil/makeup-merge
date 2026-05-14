@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <!-- Karakter kodlaması (Türkçe karakter desteği için) -->
+    <meta charset="UTF-8">
+
+    <!-- Sayfanın mobil cihazlarda uyumlu görüntülenmesini sağlar -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Tarayıcı sekmesinde görünen oyun başlığı -->
+    <title>GLAM MERGE</title>
+
+    <!-- Harici CSS dosyasını projeye bağlar -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Oyunun ana kapsayıcı alanı -->
+    <div class="page">
+
+        <!-- HTML5 Canvas: Oyunun tüm grafiksel çizimleri burada yapılır -->
+        <canvas id="gameCanvas" width="1100" height="700"></canvas>
+
+        <!-- Oyuncuya gösterilen kontrol bilgilendirme alanı -->
+        <div class="outside-controls">
+            ← → Hareket | SPACE / ↓ Bırak | J Joker Kullan | R Yeniden Başlat
+        </div>
+    </div>
+
+    <!-- Oyunun tüm JavaScript mantığını içeren ana dosya -->
+    <script src="game.js"></script>
+
+</body>
+</html>
