@@ -27,7 +27,7 @@ Bu proje aşağıdaki oyunun temel merge mekaniğinden esinlenilerek geliştiril
 
 Oyunun yayınlanmış sürümüne aşağıdaki bağlantıdan erişebilirsiniz:
 
-GITHUB PAGES LINKI BURAYA
+GITHUB PAGES LINKI: https://yagmurabdil.github.io/makeup-merge/
 
 ---
 
