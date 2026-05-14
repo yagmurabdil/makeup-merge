@@ -1,0 +1,58 @@
+/* Tüm elemanlarda varsayılan boşlukları sıfırlar ve boyut hesaplamasını düzenler */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Sayfanın genel görünüm ayarları */
+body {
+    /* Sayfanın minimum yüksekliğini ekran boyutuna eşitler */
+    min-height: 100vh;
+
+    /* Arka plana pembe tonlarında degrade renk verir */
+    background: linear-gradient(to bottom, #ffd6ec, #ffeaf5);
+
+    /* İçeriği yatay ve dikey olarak ortalar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Sayfada kullanılacak varsayılan yazı tipi */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Oyun alanı ve kontrol metnini kapsayan ana bölüm */
+.page {
+    text-align: center;
+}
+
+/* HTML5 Canvas oyun sahnesinin görünüm ayarları */
+canvas {
+    /* Oyun alanına pembe çerçeve ekler */
+    border: 6px solid #ff86bd;
+
+    /* Köşeleri yuvarlatır */
+    border-radius: 26px;
+
+    /* Canvas arka plan rengini belirler */
+    background: #ffd6ec;
+
+    /* Canvas'ın blok eleman gibi davranmasını sağlar */
+    display: block;
+}
+
+/* Oyuncuya kontrol tuşlarını gösteren bilgi alanı */
+.outside-controls {
+    /* Canvas ile bilgi metni arasına boşluk bırakır */
+    margin-top: 12px;
+
+    /* Yazı rengi */
+    color: #8b3f63;
+
+    /* Yazı boyutu */
+    font-size: 18px;
+
+    /* Yazıyı kalın yapar */
+    font-weight: bold;
+}
